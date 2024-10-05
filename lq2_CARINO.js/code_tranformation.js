@@ -1,0 +1,2 @@
+console.log(age >= 18 && genAverage >+ 83 ? "you may enter Collage, under BSCS Programing" : " both conditions may have not met and not allowed to enroll")
+console.log(subject === "DSA" && grade >= 80 ? "You may enrol application development" : (subject === "math101" && grade <= 80 ? " you may enroll calculus"))
